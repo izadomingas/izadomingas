@@ -28,9 +28,6 @@
 <img align="left" alt="Ruby" height="32px" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
 <img align="left" alt="C++" height="32px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img align="left" alt="C" height="32px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img align="left" alt="Go" height="32px" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-<img align="left" alt="Rust" height="32px" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
-<img align="left" alt="Rust" height="32px" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 <br/>
 <br/>
 <br/>
@@ -44,7 +41,8 @@
 <br/>
 <br/>
 
-<h2>SQL and NoSQL Databases Technologies</h2>
+<h2>SQL and NoSQL Databases Technologies</h2><img align="left" alt="Oracle" height="32px" src="https://img.shields.io/badge/oracle-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+
 
 <h3>SQL Databases</h3>
 <img align="left" alt="MySQL" height="32px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -54,9 +52,6 @@
 <br/>
 <h3>NoSQL Databases</h3>
 <img align="left" alt="MongoDB" height="32px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img align="left" alt="Redis" height="32px" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
-
-<br/>
 <br/>
 <br/>
 
