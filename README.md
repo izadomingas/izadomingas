@@ -1,4 +1,11 @@
- Oiii eu sou a Izaide Tenutes, Q.A./Programador(a)/Contador(a)
+</br>
+</br>
+
+<div dsplay="inline-block">
+ 
+ <h1 align="left">Izaide Tenutes</h1>
+
+Oiii eu sou a Izaide Tenutes, Q.A./Programador(a)/Contador(a)
 ##
 <p align="center">
 <a href="https://github.com/izadomingas">
