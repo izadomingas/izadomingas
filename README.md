@@ -5,7 +5,7 @@
  
  <h1 align="left">Izaide Tenutes</h1>
 
-Oiii eu sou a Izaide Tenutes, Q.A./Programador(a)/Contador(a)
+Hello! I'm Izaide Tenutes, Software Quality Analyst.
 ##
 <p align="center">
 <a href="https://github.com/izadomingas">
@@ -29,7 +29,7 @@ Oiii eu sou a Izaide Tenutes, Q.A./Programador(a)/Contador(a)
   ##
  <br/>
  <h2>Automated Testing Tools</h2>
-<img align="left" alt="Playwright" height="32px" src="https://img.shields.io/badge/Playwright-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align="left" alt="Playwright" height="32px" src="https://github.com/devicons/devicon/blame/master/icons/playwright/playwright-plain.svg"/>
 <img align="left" alt="Typescript" height="32px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="left" alt="Javascript" height="32px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <br/>
