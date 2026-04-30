@@ -28,8 +28,13 @@ Oiii eu sou a Izaide Tenutes, Q.A./Programador(a)/Contador(a)
   
   ##
  <br/>
- <h2>Backend Technologies</h2>
-
+ <h2>Automated Testing Tools</h2>
+<img align="left" alt="PLAYWRIGHT" height="32px" src="[https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)"/>
+<img align="left" alt="Typescript" height="32px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align="left" alt="Javascript" height="32px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<br/>
+<br/>
+<br/>
 <h2>Backend Technologies</h2>
 
 <img align="left" alt=".NET" height="32px" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
