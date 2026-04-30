@@ -22,6 +22,9 @@ Hello! I'm Izaide Tenutes, Software Quality Analyst.
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Iza-Play" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg">
+ <img align="center" alt="Iza-Cypress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original-wordmark.svg">
+ <img align="center" alt="Iza-Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
 </div>
 
 </div>
@@ -29,9 +32,120 @@ Hello! I'm Izaide Tenutes, Software Quality Analyst.
   ##
  <br/>
  <h2>Automated Testing Tools</h2>
-<img align="left" alt="Playwright" height="32px" src="https://github.com/devicons/devicon/blame/master/icons/playwright/playwright-plain.svg"/>
-<img align="left" alt="Typescript" height="32px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="left" alt="Javascript" height="32px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+## 🌐 Testes Web (UI / E2E)
+
+### 🔹 JavaScript / TypeScript
+
+- **Playwright**
+  - Suporte: Chromium, Firefox, WebKit
+  - Execução paralela
+  - Auto-wait inteligente
+
+- **Cypress**
+  - Fácil configuração
+  - Interface visual
+  - Focado em frontend
+
+- **WebdriverIO**
+  - Baseado em WebDriver
+  - Altamente configurável
+
+---
+
+### 🔹 Java
+
+- **Selenium WebDriver**
+  - Padrão de mercado
+  - Compatível com vários browsers
+
+- **Selenide**
+  - Abstração do Selenium
+  - Código mais simples
+
+---
+
+### 🔹 Python
+
+- Selenium (Python)
+- Playwright (Python)
+
+---
+
+## 📱 Testes Mobile
+
+- **Appium**
+  - Android e iOS
+  - Multiplataforma
+
+- **Detox**
+  - React Native
+
+- **Espresso**
+  - Android (Google)
+
+- **XCUITest**
+  - iOS (Apple)
+
+---
+
+## 🔌 Testes de API
+
+- **Postman / Newman**
+- **Rest Assured (Java)**
+- **Supertest (Node.js)**
+- **Karate DSL**
+
+---
+
+## ⚡ Testes de Performance
+
+- **JMeter**
+- **k6**
+- **Gatling**
+
+---
+
+## 🧩 Testes Unitários
+
+### JavaScript / TypeScript
+- Jest
+- Mocha + Chai
+- Vitest
+
+### Java
+- JUnit
+- TestNG
+
+### Python
+- PyTest
+- Unittest
+
+---
+
+## 🧠 BDD (Behavior Driven Development)
+
+- **Cucumber**
+- **SpecFlow (.NET)**
+- **Behave (Python)**
+
+---
+
+## 📊 Relatórios
+
+- **Allure Report**
+- HTML Reporter (Playwright / Cypress)
+- Extent Reports
+
+---
+
+## 🔄 Integração Contínua (CI/CD)
+
+- GitHub Actions
+- GitLab CI/CD
+- Jenkins
+- Azure DevOps
+
+---
 <br/>
 <br/>
 <br/>
